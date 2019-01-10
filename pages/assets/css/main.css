@@ -2101,7 +2101,7 @@
       display: block;
       height: 100%;
       left: 0;
-      opacity: 0.2;
+      opacity: 0.1;
       position: absolute;
       top: 0;
       width: 100%;
@@ -2163,7 +2163,7 @@
       }
 
       .image.icon:hover:after {
-        opacity: 1;
+        opacity: 0.4;
       }
 
   span.image.icon {
