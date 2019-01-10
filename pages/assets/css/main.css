@@ -2101,7 +2101,7 @@
       display: block;
       height: 100%;
       left: 0;
-      opacity: 0.1;
+      opacity: 0;
       position: absolute;
       top: 0;
       width: 100%;
@@ -2427,6 +2427,13 @@
       text-align: inherit;
     }
 
+    .feature .imgbox {
+      position: relative;
+      text-align: center;
+      width: 100%;
+      height: 100%;      
+    }
+
     .feature .image {
       display: inline-block;
       height: 100%;
@@ -2436,10 +2443,19 @@
     }
 
       .feature .image img {
-        display: block;
-        min-height: 100%;
-        min-width: 100%;
+
         position: absolute;
+        margin: auto;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+
+        display: block;
+        max-width: 100%;
+        max-height: initial;
+        /* min-height: 100%; */
+        /* min-width: 100%; */
       }
 
     .feature:before {
