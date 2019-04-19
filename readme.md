@@ -1,7 +1,6 @@
 ## maldorne.org static page, made by Ivan Alonso ([@neverbot](https://github.com/neverbot))
 
-Based on the [Directive Template](https://html5up.net/directive) by [HTML5 UP](https://html5up.net)
-aj@lkn.io | [@ajlkn](https://twitter.com/ajlkn)
+Based on the [Directive Template](https://html5up.net/directive) by [HTML5 UP](https://html5up.net) | aj@lkn.io | [@ajlkn](https://twitter.com/ajlkn)
 
 ### License:
 
