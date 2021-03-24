@@ -16,4 +16,6 @@ Based on the [Directive Template](https://html5up.net/directive) by [HTML5 UP](h
  * Icons from [Font Awesome](http://fontawesome.io/) v5.8.1 (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  * [jQuery](http://jquery.com/) v3.3.1 from jQuery Foundation (MIT License)
 
+### Full screenshot:
+
 ![](screenshot-full.jpg)
